@@ -35,6 +35,8 @@ Fortnite, desarrollado por Epic Games, comenzó como un videojuego de tipo "batt
 
 Eventos como los conciertos de Travis Scott o Ariana Grande, los estrenos de contenidos de Marvel o Star Wars, y colaboraciones con marcas como Balenciaga o Nike, convierten a Fortnite en un contenedor de medios. Se trata de una experiencia inmersiva donde el jugador no solo juega, sino que participa en espectáculos, consume productos digitales y construye su identidad virtual.
 
+![Fortnite](images/fortnite-metaverse-750x375-1.jpg)
+
 ### Principios de Manovich aplicados:
 
 - **Modularidad**: Fortnite está compuesto por elementos combinables y reemplazables: skins, bailes, armas, mundos, eventos, y más. Todo puede ser mezclado por el usuario o el software sin afectar la estructura general.
@@ -44,6 +46,8 @@ Eventos como los conciertos de Travis Scott o Ariana Grande, los estrenos de con
 
 Fortnite ya no es simplemente un videojuego: es una red social, una sala de conciertos, una tienda de moda digital y un espacio de expresión cultural. Como anticipaba Manovich, el software toma el mando y redefine las categorías tradicionales de los medios. Fortnite es un ejemplo claro de cómo las plataformas digitales híbridas construyen nuevas formas de experiencia y participación, en las que el código es el nuevo lenguaje cultural.
 
+![Evento Travis Scott en Fortnite](images/Fortnite.jpg)
+
 ### Recursos:
 
 - Sitio oficial: [https://www.fortnite.com](https://www.fortnite.com)
@@ -51,6 +55,28 @@ Fortnite ya no es simplemente un videojuego: es una red social, una sala de conc
 - Artículo en The Verge: [How Fortnite became the new social network](https://www.theverge.com/2018/12/21/18152012/fortnite-was-2018s-most-important-social-network)
 
 ---
+
+## Bibliografía
+
+- **Manovich, L.** (2013). *El software toma el mando*. Editorial UOC.  
+  [Enlace al libro: *EL SOFTWARE TOMA EL MANDO*](https://www.casadellibro.com/libro-el-software-toma-el-mando/9788490298633/2208338?msockid=0a2cba58a67b6c010919afb3a7d36db9))
+
+- *Theorizing “Stories About Algorithms” as a Mechanism in the Formation and Maintenance of Algorithmic Imaginaries.  
+  [Enlace al artículo académico](https://journals.sagepub.com/doi/full/10.1177/20563051221077025)
+
+- **Medium** (2024). *How the TikTok Algorithm Works in 2024*. Buffer Resources.  
+  [Enlace a Buffer](https://medium.com/@admin_70955/how-the-tiktok-algorithm-works-in-2024-3dfe6d805d20)
+
+- **Bijan Stephen.** (2018). *Fortnite was 2018’s most important social network.  
+  [Enlace a The Verge](https://www.theverge.com/2018/12/21/18152012/fortnite-was-2018s-most-important-social-network)
+
+- **Epic Games**. (s.f.). *Fortnite Official Site*.  
+  [Enlace oficial de Fortnite](https://www.fortnite.com)
+
+- **YouTube**. (2020). *Travis Scott x Fortnite Astronomical Event [Full Video]*.  
+  [Enlace a YouTube](https://www.youtube.com/watch?v=wYeFAlVC8qU)
+
+--
 
 ## Conclusión
 
