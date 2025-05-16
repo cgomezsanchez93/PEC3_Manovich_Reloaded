@@ -8,7 +8,8 @@ Este informe analiza dos ejemplos actuales de hibridación digital a partir del 
 
 TikTok va mucho más allá de ser una red social para compartir videos cortos. Es un entorno donde se cruzan distintos lenguajes: narración audiovisual, música, edición, memes, efectos visuales, realidad aumentada y, sobre todo, un sistema algorítmico que determina cómo se distribuye el contenido. Cada video en TikTok no es solo una publicación; es el resultado de una cadena de decisiones automatizadas y modulares.
 
-![Pantalla de inicio de TikTok](images/still-life-books-versus-technology.jpg)
+![TikTok](images/still-life-books-versus-technology.jpg)
+
 
 ### Principios de Manovich aplicados:
 
@@ -18,6 +19,8 @@ TikTok va mucho más allá de ser una red social para compartir videos cortos. E
 - **Transcodificación**: Las acciones del usuario (likes, tiempo de visualización, interacciones) se convierten en datos que el algoritmo interpreta para decidir qué mostrarle después.
 
 El aspecto más interesante es cómo el algoritmo actúa como un curador invisible, influenciando qué se vuelve viral y qué queda al margen. De alguna manera, es el software quien edita, selecciona y define las nuevas formas de cultura popular.
+
+![Algoritmo de TikTok](images/ui-ux-representations-with-tablet.jpg)
 
 ### Recursos:
 
